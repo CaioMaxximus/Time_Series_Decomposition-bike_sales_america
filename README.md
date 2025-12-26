@@ -1,4 +1,4 @@
-# Time Series Decomposition STUDY - bike_sales_america
+# Time Series Decomposition - bike sales in a American store
 
 ## This notebook explore classic time series decomposition techiniques to understand sales patterns in a bike store.
   
