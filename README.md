@@ -1,4 +1,4 @@
-# Time Series Decomposition - bike sales in a American store
+# [Time Series Decomposition - bike sales in a American store](https://www.kaggle.com/code/caiomaxximus/time-series-decomposition-bike-sales-america)
 
 ## This notebook explore classic time series decomposition techiniques to understand sales patterns in a bike store.
   
